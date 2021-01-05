@@ -15,7 +15,7 @@
     "lokalise:down": "lokalise --token=YOUR_TOKEN --project=PROJECT_ID --output=src/lang/"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "lokalise": "0.0.6",
     "vue": "^2.5.2",
     "vue-cli-plugin-style-resources-loader": "^0.1.3",
